@@ -1,0 +1,20 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-05-03T12:17:52Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:vitaliy-artyukh"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "fd90104b959cc3c9c094619d",
+    "Timestamp": "2023-05-03T14:09:44Z",
+    "Signature": "4171484065d4eae534ea8d464e5326746cf3f18095636949d1aafc77fc0113048477c8fdf4f52d867592216f0830384a084ca4b9aa96544cab48b259dca42213d33578e8aaf8915062f928d2677d562330965d5426143d4691adb5f06b2b76a6aa772c8a5cf760725c4bed3463986a849d4cb98c974682016f12177049c234db59bd4218d9e5883e4fe4da7f7d31e7d1b8beea68c542f706a9617848c90253afc71be055c1b1549c6ae4414efbc1fb278ad1be889b9ac4a4c58f6a9ae54a265b145d999c6475e53629b7682e94ab063631735c8badea6f7185255d29c6bfe5368bb6392dbcf05efa523e0e7cb4670025999daa3bbde90f21a747e315e20e51cd"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "b204379bc0a5a311223639e076d1251e1ec672f8340ab85b5bbb4e5907221db8",
+  "ContentToHash": "v1|gh:vitaliy-artyukh|2023-05-03T12:17:52Z"
+}
